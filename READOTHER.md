@@ -33,7 +33,7 @@
 
 ### 语法
 
-推荐使用`Markdown`语法, Markdown的优点是简单快捷, 并受GitHub/GitLab等云端`Git`平台原生支持渲染, 可以快速写出结构清晰的文档, 借助一些辅助工具<sup style="font-size: 0.6em">[1],[2]</sup>还可以增加对<img alt="$\textrm{\LaTeX}$" src="svgs/02e5fca75dbb2e726dbff8793c2b388a.svg" align="middle" width="42.186907949999984pt" height="22.465723500000017pt"/>公式的支持。
+推荐使用`Markdown`语法, Markdown的优点是简单快捷, 并受GitHub/GitLab等云端`Git`平台原生支持渲染, 可以快速写出结构清晰的文档, 借助一些辅助工具<sup style="font-size: 0.6em">[1],[2]</sup>还可以增加对$\textrm{\LaTeX}$公式的支持。
 
 ### 环境声明
 
