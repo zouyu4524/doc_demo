@@ -52,10 +52,9 @@ conda env export > environment.yml
 
 将导出的`environment.yml`附在repo中。
 
-<hr style="width:20%;text-align:left;margin-left:0;margin-top:0px;height:0.5%">
-<div style="margin: 0 auto; margin-top: -25px; font-size: 0.7em" markdown="1">
+<div style="margin: 0 auto; font-size: 0.7em" markdown="1">
 
-[1]. [leegao/readme2tex: Renders LaTeX for Github Readmes](https://github.com/zouyu4524/readme2tex)
+[1]. [leegao/readme2tex: Renders LaTeX for Github Readmes](https://github.com/zouyu4524/readme2tex)  
 [2]. [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
 </div>
 
